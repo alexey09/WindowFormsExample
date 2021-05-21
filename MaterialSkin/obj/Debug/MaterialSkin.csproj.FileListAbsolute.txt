@@ -1,0 +1,12 @@
+D:\coding\MaterialSkin\obj\Debug\MaterialSkin.csprojAssemblyReference.cache
+D:\coding\MaterialSkin\obj\Debug\MaterialSkin.Properties.Resources.resources
+D:\coding\MaterialSkin\obj\Debug\MaterialSkin.csproj.GenerateResource.cache
+D:\coding\MaterialSkin\obj\Debug\MaterialSkin.csproj.CoreCompileInputs.cache
+D:\coding\MaterialSkin\bin\Debug\MaterialSkin.exe.config
+D:\coding\MaterialSkin\bin\Debug\MaterialSkin.exe
+D:\coding\MaterialSkin\bin\Debug\MaterialSkin.pdb
+D:\coding\MaterialSkin\bin\Debug\MaterialSkin.dll
+D:\coding\MaterialSkin\obj\Debug\MaterialSkin.MaterialSkin1.resources
+D:\coding\MaterialSkin\obj\Debug\MaterialSkin.csproj.CopyComplete
+D:\coding\MaterialSkin\obj\Debug\MaterialSkin.exe
+D:\coding\MaterialSkin\obj\Debug\MaterialSkin.pdb
